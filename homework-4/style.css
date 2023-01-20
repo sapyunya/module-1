@@ -1,0 +1,81 @@
+#annotation {
+    color: black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80em;
+    text-decoration: wavy;
+    
+}
+
+p {
+    text-indent: 30px;
+    display: block;
+}
+
+
+li {
+    list-style-type: none;
+}
+#table {
+    outline-style: double; 
+    outline-color: #be8b5e; 
+    padding: 20px; 
+    background: #eedac8; 
+    font-style: oblique;
+}
+
+
+.title-1 {
+    text-align: center;
+    color: rgb(103, 5, 5);
+    outline-color:rgb(103, 5, 5);
+}
+
+.title-2 {
+    text-align: center;
+    color: rgb(103, 5, 5);
+    text-decoration: underline;
+}
+
+.title-3 {
+    text-align: center;
+    color: rgb(103, 5, 5);
+    font-style: italic;
+}
+
+.title-4 {
+    text-align: center;
+    color: rgb(103, 5, 5);
+    text-decoration: underline;
+
+}
+
+.title-5 {
+    text-align: center;
+    color: rgb(103, 5, 5);
+    font-style: italic;
+}
+
+.title-6 {
+    text-align: center;
+    color: rgb(103, 5, 5);
+    text-decoration: underline
+}
+.title-7 {
+    text-align: center;
+    color: rgb(103, 5, 5);
+    text-decoration: underline;
+}
+
+.title-8 {
+    text-align: center;
+    color: rgb(103, 5, 5);
+    font-style: italic;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
